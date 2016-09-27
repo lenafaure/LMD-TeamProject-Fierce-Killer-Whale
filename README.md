@@ -22,6 +22,11 @@ We've decided to use github and QA.modern developer to communicate for this firs
 
 Since the layout comes first, Ruben creates the Github project and Lena will collaborate on.
 
+####Mockup image provided : 
+
+[Link to Demo site](https://study.moderndeveloper.com/wp-content/uploads/2016/08/books.MD_.png)!
+
+
 
 ###Project 2 : Create Cheatsheet Encyclopedia Entries for Encyclopedia.ModernDeveloper.com
 
@@ -34,3 +39,11 @@ Lena will create the repo and Ruben will pull request with his work.
 
 We then link to that repo from our coursework repo, in the README.md for the chapter. 
 
+#### Encyclopedia entries : 
+
+1. `<form>`
+2. `<em>`
+3. `background-image`
+4. `margin-bottom`
+5. `Math.max()`
+6. `String.prototype.replace()`
