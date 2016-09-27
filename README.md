@@ -24,7 +24,7 @@ Since the layout comes first, Ruben creates the Github project and Lena will col
 
 ####Mockup image provided : 
 
-[Link to Demo site](https://study.moderndeveloper.com/wp-content/uploads/2016/08/books.MD_.png)!
+![Books.Modern Developer](https://study.moderndeveloper.com/wp-content/uploads/2016/08/books.MD_.png)
 
 
 
