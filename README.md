@@ -4,7 +4,9 @@
 
 Lena Faure and Ruben Ruiz join forces to create Team Fierce-Killer-Whale.
 
-Team project 1 is to build out Books.Modern Developer UI based on a mockup provided by the Modern Developer team, and Team project 2 is to write Encyclopedia entries for Encyclopedia.ModernDeveloper.com
+Team project 1 is to build out Books.Modern Developer UI based on a mockup provided by the Modern Developer team, and Team project 2 is to write Encyclopedia entries for Encyclopedia.ModernDeveloper.com.
+
+We've decided to use Github for collaboration and QA.modern developer for communication for these two projects.
 
 
 ##Workflow and workload
@@ -15,13 +17,13 @@ Team project 1 is to build out Books.Modern Developer UI based on a mockup provi
 
 [Link to Demo site]()
 
-We've decided to use github and QA.modern developer to communicate for this first project. The workload is split in the folowing way: 
+The workload is split in the following way: 
 
 **Ruben**: create layout of page (structure, header, nav, footer)
 
 **Lena**: create the "book" section
 
-Since the layout comes first, Ruben creates the Github project and Lena will collaborate on.
+Since the layout comes first, Ruben creates the Github project and Lena will collaborate on it.
 
 ####Mockup image provided : 
 
@@ -32,6 +34,9 @@ Since the layout comes first, Ruben creates the Github project and Lena will col
 ###Project 2 : Create Cheatsheet Encyclopedia Entries for Encyclopedia.ModernDeveloper.com
 
 [Link to Github Repo](https://github.com/lenafaure/LMD-TeamProject2)
+
+
+The workload is split in the following way: 
 
 Lena will create the repo and Ruben will pull request with his work.
 
