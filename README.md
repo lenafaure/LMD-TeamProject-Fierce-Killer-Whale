@@ -21,7 +21,7 @@ The workload is split in the following way:
 
 **Ruben**: create layout of page (structure, header, nav, footer)
 
-**Léna**: create the "book" section
+**Léna**: create the "book" sections
 
 Since the layout comes first, Ruben creates the Github project and Lena will collaborate on it.
 
