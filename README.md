@@ -15,7 +15,7 @@ We've decided to use Github for collaboration and QA.modern developer for commun
 
 [Link to Github Repo](https://github.com/carpefukendiem/LMD-TeamProject1)
 
-[Link to Demo site]()
+[Link to Demo site](https://carpefukendiem.github.io/LMD-TeamProject1/)
 
 The workload is split in the following way: 
 
@@ -24,11 +24,6 @@ The workload is split in the following way:
 **Léna**: create the "book" section
 
 Since the layout comes first, Ruben creates the Github project and Lena will collaborate on it.
-
-####Mockup image provided : 
-
-![Books.Modern Developer](https://study.moderndeveloper.com/wp-content/uploads/2016/08/books.MD_.png)
-
 
 
 ###Project 2 : Create Cheatsheet Encyclopedia Entries for Encyclopedia.ModernDeveloper.com
