@@ -1,4 +1,4 @@
-#LMD Team Project : Fierce-Killer-Whale
+#LMD Team Project : Fierce-Killer-Whale (status: complete)
 
 ##Team Fierce-Killer-Whale : Léna Faure and Ruben Ruiz
 
